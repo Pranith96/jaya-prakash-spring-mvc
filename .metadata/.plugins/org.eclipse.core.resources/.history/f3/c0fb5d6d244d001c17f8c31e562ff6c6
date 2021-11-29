@@ -1,0 +1,46 @@
+package com.demo.springmvc.service;
+
+import java.util.Optional;
+
+import org.junit.Assert;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.Mock;
+import org.mockito.Mockito;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import com.wdf.springmvc.dao.UserDaoImpl;
+import com.wdf.springmvc.dto.UserDto;
+import com.wdf.springmvc.model.User;
+import com.wdf.springmvc.service.UserServiceImpl;
+
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(locations = { "classpath:applicationContext.xml"})
+public class UserServiceImplTest {
+
+	@Mock
+	UserDaoImpl userDao;
+
+	 @Autowired
+	 UserServiceImpl userServiceImpl;
+
+	@Test
+	public void testCreate() throws Exception {
+		//UserServiceImpl userServiceImpl = new UserServiceImpl();
+		User user = new User();
+		user.setUserId(1);
+		user.setEmailId("ramannagaripranith96@gmail.com");
+		user.setFirstName("Test");
+		user.setPassword("Test");
+		UserDto userDto = new UserDto();
+		userDto.setEmailId("ramannagaripranith96@gmail.com");
+		userDto.setPassword("Test");
+		Mockito.when(userDao.login(userDto)).thenReturn(Optional.of(user));
+		User result = userServiceImpl.loginUser(userDto);
+		Assert.assertEquals(user.getUserId(), result.getUserId());
+
+	}
+
+}

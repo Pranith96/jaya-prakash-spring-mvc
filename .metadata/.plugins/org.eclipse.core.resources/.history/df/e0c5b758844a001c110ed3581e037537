@@ -1,0 +1,21 @@
+package com.demo.springmvc.controller;
+
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.MockitoJUnitRunner;
+
+import com.wdf.springmvc.controller.RegistrationController;
+import com.wdf.springmvc.service.UserServiceImpl;
+
+@RunWith(MockitoJUnitRunner.class)
+public class RegistrationControllerTest {
+
+	@InjectMocks
+	RegistrationController registrationController;
+	
+	@Mock
+	UserServiceImpl userServiceImpl;
+
+
+}

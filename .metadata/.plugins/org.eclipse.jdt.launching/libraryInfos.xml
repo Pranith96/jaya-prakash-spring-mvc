@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\ramannpr\softwares\open-jdk-15.0.1" version="15.0.1"/>
+    <libraryInfo home="C:\Users\ramannpr\softwares\jdk1.8.0_271" version="1.8.0_271">
+        <bootpath>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\resources.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\rt.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\jsse.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\jce.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\charsets.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\jfr.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Users\ramannpr\softwares\jdk1.8.0_271\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\ramannpr\softwares\jdk8_281\bin" version="1.8.0_281">
+        <bootpath>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\resources.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\rt.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\sunrsasign.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\jsse.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\jce.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\charsets.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\jfr.jar"/>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Users\ramannpr\softwares\jdk8_281\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

@@ -1,0 +1,68 @@
+1636262529898	Copy file
+1636262559057	Delete element
+1636262569640	Copy file
+1636262720722	Delete element
+1636263173547	Delete element
+1636263250937	Delete element
+1636263418625	Delete element
+1636272027677	Delete element
+1636281908112	Copy compilation unit
+1636283152092	Delete element
+1636286994539	Move 'applicationContext.xml' to 'views'
+1636286999411	Move 'applicationContext.xml' to 'WEB-INF'
+1636290578875	Copy compilation unit
+1636290789563	Delete element
+1636291512544	Delete element
+1636341999836	Delete element
+1636346708206	Delete element
+1636393386834	Rename type 'UserDto'
+1636393494143	Rename type 'loginDto'
+1636395143304	Rename type 'authentication'
+1636395430576	Delete element
+1636395453815	Copy compilation unit
+1636395462580	Delete element
+1636395476839	Delete element
+1636395483125	Move compilation unit
+1636395488560	Move compilation unit
+1636479130093	Rename type 'Util'
+1636479344695	Rename type 'PasswordEncoder'
+1636521074120	Rename resource 'register.jps'
+1636521213396	Delete element
+1636521344314	Rename resource 'register.jsp'
+1636542949349	Rename resource 'register.html'
+1636543050451	Rename resource 'register.jsp.html'
+1636543077289	Delete element
+1636563949842	Delete element
+1636563959869	Delete element
+1636622458401	Rename type 'UserController'
+1636622476089	Rename type 'UserLoginController'
+1636622483035	Rename type 'UserRegistrationController'
+1636655475401	Rename resource 'home.jsp'
+1636655538334	Copy file
+1636655578923	Copy file
+1636710609123	Delete element
+1636714950866	Copy file
+1636715449185	Copy file
+1636715468844	Rename resource 'updateSuccess.jsp'
+1636716504104	Copy compilation unit
+1636717417165	Rename resource 'portaldetails.jsp'
+1636717431506	Copy file
+1636735180293	Rename resource 'loginhome.jsp'
+1636735387183	Copy file
+1636799953258	Copy file
+1636800027018	Rename resource 'deleteSuccess.jsp'
+1636805615111	Copy file
+1636807854998	Copy file
+1636808323768	Rename resource 'passwordreset.jsp'
+1636808380776	Rename resource 'passwordupdate.jsp'
+1636808434828	Delete element
+1636808452424	Copy file
+1636808922859	Copy file
+1636809367447	Rename resource 'deletesuccess.jsp'
+1636809377437	Delete element
+1636809434750	Rename resource 'successform.jsp'
+1636809443703	Rename resource 'updatedetailssuccessform.jsp'
+1636809514652	Rename resource 'passwordresetsuccess.jsp'
+1636809525980	Delete element
+1636809608756	Rename resource 'updatedetailsuccessform.jsp'
+1636809777170	Rename resource 'updatepasswordform.jsp'

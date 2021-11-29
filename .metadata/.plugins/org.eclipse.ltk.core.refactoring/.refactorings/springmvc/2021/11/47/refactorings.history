@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StudentMapper.java&apos; to &apos;communityportal/src/main/java/com.wdf.springmvc.dao&apos;&#x0D;&#x0A;- Original project: &apos;springmvc&apos;&#x0D;&#x0A;- Destination element: &apos;communityportal/src/main/java/com.wdf.springmvc.dao&apos;&#x0D;&#x0A;- Original element: &apos;com.demo.springmvc.dao.StudentMapper.java&apos;" description="Copy compilation unit" destination="=communityportal/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.wdf.springmvc.dao" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.springmvc.dao{StudentMapper.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1636873114516" units="1" version="1.0"/>
+</session>

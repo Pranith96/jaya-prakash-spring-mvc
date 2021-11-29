@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ramannpr\support_works\jaya-prakash"/>
+			<item value="C:\Users\ramannpr\support_works\jaya-prakash\CommunityProtalWebsite"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.wdf.springmvc"/>
+		</list>
+		<list key="name">
+			<item value="CommunityProtalWebsite"/>
+		</list>
+		<list key="artifactId">
+			<item value="CommunityProtalWebsite"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ramannpr\Spring Boot-Mahesh\SpringBootJunit"/>
+			<item value="C:\Users\ramannpr\support_works\jaya-prakash\spring-mvc-hibernate-project\CommunityPortalWebsite"/>
+			<item value="C:\Users\ramannpr\support_works\jaya-prakash\spring mvc jdbc\CommunityProtalWebsite"/>
+			<item value="C:\Users\ramannpr\support_works\CommunityProtalWebsite"/>
+			<item value="C:\Users\ramannpr\support_works\SpringMVCwithSecurity-master"/>
+			<item value="C:\Users\ramannpr\eclipse-workspace\springmvc"/>
+			<item value="C:\Users\ramannpr\Spring_files\spring files_3\petshibernate"/>
+			<item value="C:\Users\ramannpr\support_works\Harshu-brother files\Assignments\spring-mvc-hibernate-crud"/>
+			<item value="C:\Users\ramannpr\support_works\Harshu-brother files\Assignments\ems_springmvc_hibernate"/>
+			<item value="C:\Users\ramannpr\support_works\springmvc"/>
+			<item value="C:\Users\ramannpr\support_works\Spring4HibernateExample"/>
+			<item value="C:\Users\ramannpr\support_works\jaya-prakash\CommunityProtalWebsite"/>
+			<item value="C:\Users\ramannpr\support_works\Harshu-brother files\Assignments\SpringMvcEmsHibernate"/>
+			<item value="C:\Users\ramannpr\Spring_files\petpeers"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

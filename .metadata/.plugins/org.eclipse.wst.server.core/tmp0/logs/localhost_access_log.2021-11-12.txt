@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Nov/2021:20:40:49 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:40:51 +0530] "GET /CommunityProtalWebsite/ HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:41:03 +0530] "GET /CommunityProtalWebsite/user/home HTTP/1.1" 200 4187
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:41:18 +0530] "GET /CommunityProtalWebsite/user/home HTTP/1.1" 200 4187
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:41:25 +0530] "GET /communityportal/user/portal/new HTTP/1.1" 404 794
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:41:38 +0530] "GET /communityportal/user/register HTTP/1.1" 404 788
+0:0:0:0:0:0:0:1 - - [12/Nov/2021:20:41:42 +0530] "GET /communityportal/user HTTP/1.1" 404 775

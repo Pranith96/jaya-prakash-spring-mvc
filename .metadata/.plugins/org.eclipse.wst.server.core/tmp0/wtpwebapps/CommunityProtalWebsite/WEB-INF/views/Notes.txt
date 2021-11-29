@@ -1,0 +1,18 @@
+Software Progammer:
+
+User Registration and send mail to user with email and password ------------------------- partial done
+user login and view their profile ---------------------------------------------------------- done
+search other users by name ------------------------------------------------------------------ done
+provide Login page-------------------------------------------------------------------------- UI -- not done
+update user profile after logged in ---------------------------------------------------------- done
+
+
+Admin:
+Home page to display and show portal details
+registration page---------------------------------------
+Login page----------------------------------------------
+update profile page ------------------------------------------------------------------------ done
+search user page----------------------------------------
+list of all users from db    ------------------------------------------------------------------- done
+forgot password page --------------------------------------------------------------------------- done
+
